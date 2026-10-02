@@ -1,0 +1,14 @@
+# Python / environment
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+runs/
+
+# Secrets
+.env
+
+# Personal notes - not part of the project
+LINKEDIN_POST.md
+UPWORK_PORTFOLIO.md
+push_to_github.bat
